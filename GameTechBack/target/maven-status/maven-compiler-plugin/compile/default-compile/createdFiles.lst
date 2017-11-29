@@ -1,0 +1,4 @@
+com\techcompany\Model\User.class
+com\techcompany\DAO\UserDAO.class
+com\techcompany\DAOImpl\UserDAOImpl.class
+com\techompany\DBConfig\DBConfig.class
